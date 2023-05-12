@@ -1,0 +1,34 @@
+server:
+  port: 12102
+
+spring:
+  application:
+    name: user-service
+  main:
+    allow-bean-definition-overriding: true
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource #使用druid连接池
+    url: jdbc:mysql://localhost:3306/crimiwarshopping?serverTimezone=UTC
+    username: root
+    password: 20030711
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:12000/eureka
+  instance:
+    hostname: hostname
+    instance-id: ${eureka.instance.hostname}:${spring.application.name}:${server.port}
+hystrix:
+  metrics:
+    enabled: true
+
+mybatis-plus:
+  global-config:
+    #    关闭mp的logo
+    banner: false
+  #     设置对应对象java文件
+  type-aliases-package: fun.crimiwar.domain
+  #     设置连接超时时间
+  configuration:
+    default-statement-timeout: 240

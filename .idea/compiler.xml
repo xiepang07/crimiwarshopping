@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="goods-service" />
+        <module name="doMain" />
+        <module name="token-service" />
+        <module name="server-beta" />
+        <module name="server-gamma" />
+        <module name="api" />
+        <module name="user-service" />
+        <module name="server-alpha" />
+        <module name="admin-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="8" />
+      <module name="goods-service (1)" target="8" />
+      <module name="serve-alpha" target="8" />
+      <module name="server" target="8" />
+      <module name="server-a" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CrimiShopping" options="-parameters" />
+      <module name="admin" options="-parameters" />
+      <module name="admin-service" options="-parameters" />
+      <module name="api" options="-parameters" />
+      <module name="doMain" options="-parameters" />
+      <module name="goods-service" options="-parameters" />
+      <module name="goods-service (1)" options="-parameters" />
+      <module name="serve-alpha" options="-parameters" />
+      <module name="server" options="-parameters" />
+      <module name="server-a" options="-parameters" />
+      <module name="server-alpha" options="-parameters" />
+      <module name="server-beta" options="-parameters" />
+      <module name="server-gamma" options="-parameters" />
+      <module name="token-service" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+server:
+  port: 12001
+spring:
+  application:
+    name: server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka1:12000/eureka,http://eureka3:12002/eureka
+  instance:
+    instance-id: ${eureka.instance.hostname}:${spring.application.name}:${server.port}
+    hostname: localhost
+    prefer-ip-address: true #ip形式显示具体服务信息
+    lease-renewal-interval-in-seconds: 5 #续约时间间隔
