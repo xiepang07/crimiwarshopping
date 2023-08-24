@@ -17,6 +17,7 @@
         <module>server-gamma</module>
         <module>user-service</module>
         <module>token-service</module>
+        <module>exchange_service</module>
     </modules>
 
     <packaging>pom</packaging>

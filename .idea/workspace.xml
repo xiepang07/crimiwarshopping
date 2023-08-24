@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35584c1a-c038-4337-b835-10dbf28d2309" name="默认变更列表" comment="" />
+    <list default="true" id="35584c1a-c038-4337-b835-10dbf28d2309" name="默认变更列表" comment="初始化">
+      <change afterPath="$PROJECT_DIR$/admin-service/管理员" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doMain/src/main/java/fun/crimiwar/domain/Admin_Top.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doMain/src/main/java/fun/crimiwar/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doMain/src/main/java/fun/crimiwar/domain/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doMain/src/main/java/fun/crimiwar/domain/WorkSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange_service/交易" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/admin-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-service/src/main/java/fun/crimiwar/AdminServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/admin-service/src/main/java/fun/crimiwar/AdminServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-service/src/main/java/fun/crimiwar/controller/AdminServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/admin-service/src/main/java/fun/crimiwar/controller/AdminServiceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/admin-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-service/target/classes/fun/crimiwar/AdminServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/admin-service/target/classes/fun/crimiwar/AdminServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-service/target/classes/fun/crimiwar/controller/AdminServiceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/admin-service/target/classes/fun/crimiwar/controller/AdminServiceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-service/target/classes/fun/crimiwar/service/AdminServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/admin-service/target/classes/fun/crimiwar/service/AdminServiceImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doMain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/doMain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doMain/src/main/java/fun/crimiwar/domain/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/doMain/src/main/java/fun/crimiwar/domain/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doMain/target/classes/fun/crimiwar/domain/Admin$AdminBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/doMain/target/classes/fun/crimiwar/domain/Admin$AdminBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doMain/target/classes/fun/crimiwar/domain/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/doMain/target/classes/fun/crimiwar/domain/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doMain/target/classes/fun/crimiwar/domain/Token.class" beforeDir="false" afterPath="$PROJECT_DIR$/doMain/target/classes/fun/crimiwar/domain/Token.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods-service/src/main/java/fun/crimiwar/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/goods-service/src/main/java/fun/crimiwar/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods-service/target/classes/fun/crimiwar/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/goods-service/target/classes/fun/crimiwar/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +45,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -26,7 +56,17 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.6.3\maven_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2NB5iA5QPeizf9FoHkvuPnRmJDk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,14 +81,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="corretto-1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/ML/doc/ccer-registry-backend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="全局库" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -60,7 +102,14 @@
       <recent name="D:\正式项目\进销存管理系统\CrimiShopping\server-gamma\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.TokenServiceApplication">
+  <component name="RunManager" selected="Spring Boot.ServerAlphaApplication">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="admin-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -68,6 +117,16 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="admin-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,8 +156,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="fun.crimiwar.ServerAlphaApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,48 +186,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TokenServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="TokenServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="token-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fun.crimiwar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="fun.crimiwar.TokenServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="user-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fun.crimiwar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="fun.crimiwar.UserServiceApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="JUnit.Test.test" />
       <item itemvalue="Spring Boot.GoodsServiceApplication" />
       <item itemvalue="Spring Boot.AdminServiceApplication" />
-      <item itemvalue="Spring Boot.ServerAlphaApplication" />
-      <item itemvalue="Spring Boot.ServerBetaApplication" />
       <item itemvalue="Spring Boot.ServerGammaApplication" />
-      <item itemvalue="Spring Boot.UserServiceApplication" />
+      <item itemvalue="Spring Boot.ServerBetaApplication" />
+      <item itemvalue="Spring Boot.ServerAlphaApplication" />
+      <item itemvalue="应用程序.Test" />
       <item itemvalue="Spring Boot.TokenServiceApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.TokenServiceApplication" />
         <item itemvalue="Spring Boot.ServerAlphaApplication" />
-        <item itemvalue="Spring Boot.UserServiceApplication" />
-        <item itemvalue="Spring Boot.ServerGammaApplication" />
         <item itemvalue="Spring Boot.ServerBetaApplication" />
+        <item itemvalue="Spring Boot.ServerGammaApplication" />
+        <item itemvalue="JUnit.Test.test" />
+        <item itemvalue="应用程序.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -206,10 +245,52 @@
       <workItem from="1683275388168" duration="1190000" />
       <workItem from="1683344384265" duration="35000" />
       <workItem from="1683890026832" duration="117000" />
+      <workItem from="1683896136934" duration="1475000" />
+      <workItem from="1683902091519" duration="1930000" />
+      <workItem from="1683966727181" duration="3047000" />
+      <workItem from="1684027587546" duration="606000" />
+      <workItem from="1684197002847" duration="560000" />
+      <workItem from="1684198095468" duration="27000" />
+      <workItem from="1684198929864" duration="699000" />
+      <workItem from="1684225657193" duration="657000" />
+      <workItem from="1684389967511" duration="1593000" />
+      <workItem from="1684395081965" duration="1613000" />
+      <workItem from="1684418618272" duration="1031000" />
+      <workItem from="1691596696024" duration="684000" />
+      <workItem from="1692536302886" duration="63000" />
+      <workItem from="1692686676278" duration="3004000" />
+      <workItem from="1692751600017" duration="619000" />
+      <workItem from="1692770492277" duration="700000" />
+      <workItem from="1692779157924" duration="12000" />
+      <workItem from="1692862103434" duration="340000" />
     </task>
+    <task id="LOCAL-00001" summary="初始化">
+      <created>1683896515224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683896515224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
   </component>
 </project>

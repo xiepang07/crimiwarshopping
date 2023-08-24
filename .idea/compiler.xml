@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="goods-service" />
         <module name="doMain" />
+        <module name="exchange_service" />
         <module name="token-service" />
         <module name="server-beta" />
         <module name="server-gamma" />
@@ -33,6 +34,7 @@
       <module name="admin-service" options="-parameters" />
       <module name="api" options="-parameters" />
       <module name="doMain" options="-parameters" />
+      <module name="exchange_service" options="-parameters" />
       <module name="goods-service" options="-parameters" />
       <module name="goods-service (1)" options="-parameters" />
       <module name="serve-alpha" options="-parameters" />

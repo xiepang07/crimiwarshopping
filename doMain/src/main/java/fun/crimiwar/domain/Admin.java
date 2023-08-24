@@ -37,4 +37,18 @@ public class Admin {
     private Integer logcount = 0;//登录剩余次数
 
     private Boolean Signed;//是否登录
+
+    private String img;//头像文件
+
+    private String workspace_id;//工作空间id
+
+
+    public Admin(String name,String password,Integer level,String type,String img,String workspace_id){
+        this.name = name;
+        this.password = password;
+        this.level = level;
+        this.type = type;
+        this.img = img;
+        this.workspace_id = workspace_id;
+    }
 }
